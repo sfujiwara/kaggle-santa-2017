@@ -6,7 +6,7 @@ This is a silver medal (38th) solution for [Santa Gift Matching Challenge](https
 
 - Solve minimum cost flow problem and obtain a relaxed solution
 - Unfix some variables by heuristic rules
-- Solve mixed integer problem
+- Solve mixed integer programming
 
 ## How to Run
 
